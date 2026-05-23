@@ -1,0 +1,20 @@
+{
+  "name": "Управление подписками",
+  "short_name": "Подписки",
+  "description": "PWA-интерфейс для MVP сервиса управления подписками",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F4F5F7",
+  "theme_color": "#FFD429",
+  "lang": "ru",
+  "icons": [
+    {
+      "src": "/icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
